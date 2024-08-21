@@ -1,6 +1,5 @@
 // input: aaabbcccdd
 //output: a3b2c3d2
-package String;
 
 public class CompressionStr {
     public static void main(String[] args) {
